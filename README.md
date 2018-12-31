@@ -4,7 +4,7 @@
 * SSH Port: `2200`
 * link: `http://35.182.53.192.xip.io`
 
-** `ssh grader@35.182.53.192 -i key`
+**`ssh grader@35.182.53.192 -i key`**
 
 ## Configuration
 ### Installed several packages for the OS:
