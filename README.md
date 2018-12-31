@@ -50,3 +50,17 @@
 * Created a new user `grader`
 * Added grader to the sudoers list.
 * Create a new pair of ssh key on my local machine and copied the public key on the server
+
+## Third Party Resources
+
+Many articles and links, including, but not limited to:
+* https://atom.io
+* https://getbootstrap.com/
+* https://github.com/hhatto/autopep8
+* http://maxdesign.com.au/articles/select-required/
+* https://github.com/googleapis/oauth2client
+* http://manpages.ubuntu.com/manpages/xenial/en/man5/sshd_config.5.html
+* https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps#step-four-%E2%80%93-configure-and-enable-a-new-virtual-host
+* https://www.digitalocean.com/community/tutorials/how-to-install-python-3-and-set-up-a-local-programming-environment-on-ubuntu-16-04
+* https://stackoverflow.com/questions/48218065/programmingerror-sqlite-objects-created-in-a-thread-can-only-be-used-in-that-sa
+* https://serverfault.com/questions/57596/why-do-i-get-sqlite-error-unable-to-open-database-file
